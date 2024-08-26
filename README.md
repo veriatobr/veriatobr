@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Henrique Veriato</h1>
 <h3 align="center">Entusiasta de tecnologia e estudante de analise e desenvolvimento de sistemas pelo centro universitario celso lisboa.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=veriatobr&label=Profile%20views&color=0e75b6&style=flat](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fveriatobr&label=Visitantes&labelColor=%23697689&countColor=%23555555&style=flat&labelStyle=none)" alt="veriatobr" /> </p>
+<p align="left"> <img src="[[https://komarev.com/ghpvc/?user,](https://komarev.com/ghpvc/?username=veriatobr&label=Profile%20views&color=0e75b6&style=flat)" alt="veriatobr" /> </p>
 https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fveriatobr&label=Visitantes&labelColor=%23697689&countColor=%23555555&style=flat&labelStyle=none
 https://komarev.com/ghpvc/?username=veriatobr&label=Profile%20views&color=0e75b6&style=flat
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fveriatobr"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fveriatobr&label=Visitantes&labelColor=%23697689&countColor=%23555555&style=flat&labelStyle=none" /></a>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
