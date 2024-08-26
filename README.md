@@ -1,64 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=header"/>
+<h1 align="center">Hi 👋, I'm Henrique Veriato</h1>
+<h3 align="center">Entusiasta de tecnologia e estudante de analise e desenvolvimento de sistemas pelo centro universitario celso lisboa.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=veriatobr&label=Profile%20views&color=0e75b6&style=flat" alt="veriatobr" /> </p>
 
-<div align="center">
-  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ameglebm" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameglebm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veriatobr" alt="veriatobr" /></a> </p>
 
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; max-width: 800px; margin: 0 auto;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Linguagens" alt="Typing SVG">
-    </a>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=js">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=cs">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=css">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=html">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=react">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nodejs">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=python">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=django">
-       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=sqlite">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=fastapi">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=dotnet">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=git">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=github">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=linux">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=powershell">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=visualstudio">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=vscode">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=idea">
-    </div>
-    <img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
-  </div>
-</div>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-    
-  <div>
-    <a href="https://meu-portifolio-nine-navy.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-MeuPortfólio-%23339?style=for-the-badge&logo=site&logoColor=white" alt="Meu Portfólio">
-</a>
-    <a href="mailto:amegleeu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/alisson-amegle-0063aa300/?trk=opento_sprofile_details" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
-  
-  <br>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Visitas+na+conta" alt="Typing SVG">
-    </a>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ameglebm}/count.svg" /></p>
-  <br>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/veriatodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veriatodev" height="30" width="40" /></a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=footer"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veriatobr&show_icons=true&locale=en&layout=compact" alt="veriatobr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veriatobr&show_icons=true&locale=en" alt="veriatobr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veriatobr&" alt="veriatobr" /></p>
